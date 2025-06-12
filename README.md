@@ -19,11 +19,19 @@
 
 ### 🛠️ Skills & Tools
 
-![Linux](https://img.shields.io/badge/Linux-0078D6?style=flat&logo=linux&logoColor=white)
 ![SIEM](https://img.shields.io/badge/SIEM-ELK%20%7C%20Wazuh%20%7C%20Security%20Onion-blue)
 ![Networking](https://img.shields.io/badge/Networking-Fundamentals-informational)
-![Python](https://img.shields.io/badge/Python-3.x-yellow?logo=python&logoColor=white)
-![Git](https://img.shields.io/badge/Git-Fundamentals-orange?logo=git)
+![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-5A5A5A?style=flat&logo=nmap&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
+![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+
+
+
 
 ---
 
