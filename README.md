@@ -8,8 +8,8 @@
 
 ### 👩‍💻 About Me
 
-- 👀 I’m interested in **Security Operations (SOC) and Incident Response**
-- 🌱 I’m currently learning **SIEM tools** like Wazuh
+- 👀 I’m interested in **Security Operations (SOC)**
+- 🌱 I’m currently learning **SIEM tools**
 - 💞️ I’m looking to collaborate on **cybersecurity projects, SOC simulations, or tools development**
 - 📫 Reach me at:suchismitachatterjee13@gmail.com
 - 😄 Pronouns: **She/Her**
@@ -53,4 +53,3 @@
 
 ### ✨ Let's Connect
 - 📧suchismitachatterjee13@gmail.com
-- 
