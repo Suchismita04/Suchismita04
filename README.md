@@ -19,7 +19,6 @@
 
 ### 🛠️ Skills & Tools
 
-![SIEM](https://img.shields.io/badge/SIEM-ELK%20%7C%20Wazuh%20%7C%20Security%20Onion-blue)
 ![Networking](https://img.shields.io/badge/Networking-Fundamentals-informational)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-5A5A5A?style=flat&logo=nmap&logoColor=white)
