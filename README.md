@@ -26,29 +26,22 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" height="40" alt="Wireshark"/>
-  <img src="https://img.icons8.com/ios-filled/50/kalilinux.png" height="40" alt="Kali Linux"/>
-  <img src="https://img.icons8.com/ios/50/nmap.png" height="40" alt="Nmap"/>
-  <img src="https://img.icons8.com/ios-filled/50/008000/network.png" height="40" alt="Networking"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" height="40" alt="Kali Linux"/>
+  <img src="https://raw.githubusercontent.com/vscode-icons/vscode-icons/master/icons/file_type_nmap.svg" height="40" alt="Nmap"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3c/Network_icon.svg" height="40" alt="Networking"/>
 </p>
 
----
-
-
-
-<a href="https://tryhackme.com/p/Suchismita04">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Suchismita04.png" alt="TryHackMe" height="100">
-</a>
-
-
-
-
-
 
 ---
 
-### 📊 GitHub Stats
+
+
+
 
 <p align="center">
+  <a href="https://tryhackme.com/p/Suchismita04">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Suchismita04.png" alt="TryHackMe" height="100">
+</a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suchismita04&layout=compact&theme=radical" width="350"/>
 </p>
 
@@ -63,7 +56,7 @@
 
 ### 🌐 Connect with me:
 
+
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suchismita-chatterjee-736a89280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:suchismitachatterjee13@gmail.com)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=fl
 
