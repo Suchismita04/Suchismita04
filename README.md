@@ -77,9 +77,9 @@
 
 
 <p align="center">
-  <a href="https://tryhackme.com/p/Suchismita04">
+ 
  <iframe src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3770059" style='border:none;'></iframe>
-</a>
+
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suchismita04&layout=compact&theme=radical" width="350"/>
 </p>
 
