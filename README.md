@@ -55,7 +55,7 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Kali Linux" />
 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" height="40" alt="Wireshark" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" height="40" alt="Wireshark" />
 
   <!-- Nmap -->
   <img src="https://raw.githubusercontent.com/k4m4/nmap-security-scanner/master/media/nmap-logo.png" height="40" alt="Nmap" />
