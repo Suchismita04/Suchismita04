@@ -62,9 +62,6 @@
 
   <!-- Nmap -->
    <img src="https://raw.githubusercontent.com/k4m4/nmap-security-scanner/master/media/nmap-logo.png" height="40" alt="Nmap" />
-
-  <!-- Networking (general icon) -->
-   <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/network.svg" height="40" alt="Networking" />
 </p>
 
 
@@ -78,7 +75,7 @@
 
 <p align="center">
  
- <img src="https://tryhackme.com/api/v2/badges/public-profile?userPublicId=3770059" alt="TryHackMe Badge" width="350"/>
+ <img src="https://tryhackme-badges.s3.amazonaws.com/Suchismita04.png" alt="TryHackMe Badge" width="350"/>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suchismita04&layout=compact&theme=radical" width="350"/>
 </p>
