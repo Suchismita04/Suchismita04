@@ -19,7 +19,7 @@
 
 ### 🛠️ Skills & Tools
 
-![Networking](https://img.shields.io/badge/Networking-Fundamentals-informational)
+![Networking](https://img.shields.io/badge/Networking-Fundamentals-blue?style=flat)
 ![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
 ![Nmap](https://img.shields.io/badge/Nmap-5A5A5A?style=flat&logo=nmap&logoColor=white)
 ![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
@@ -28,6 +28,9 @@
 ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat)
 ![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
 ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Suchismita04)
+
+
 
 
 
@@ -51,4 +54,7 @@
 ---
 
 ### ✨ Let's Connect
-- 📧suchismitachatterjee13@gmail.com
+
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:suchismitachatterjee13@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suchismita-chatterjee-736a89280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+
