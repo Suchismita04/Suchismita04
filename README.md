@@ -17,18 +17,27 @@
 
 ---
 
-### 🛠️ Skills & Tools
+### 🛠️ Languages and Tools:
 
-![Networking](https://img.shields.io/badge/Networking-Fundamentals-blue?style=flat)
-![Kali Linux](https://img.shields.io/badge/Kali_Linux-557C94?style=flat&logo=kalilinux&logoColor=white)
-![Nmap](https://img.shields.io/badge/Nmap-5A5A5A?style=flat&logo=nmap&logoColor=white)
-![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=flat&logo=wireshark&logoColor=white)
-![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat&logo=mongodb&logoColor=white)
-![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat)
-![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=node.js&logoColor=white)
-[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=flat&logo=tryhackme&logoColor=white)](https://tryhackme.com/p/Suchismita04)
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" height="40" alt="Wireshark"/>
+  <img src="https://img.icons8.com/ios-filled/50/kalilinux.png" height="40" alt="Kali Linux"/>
+  <img src="https://img.icons8.com/ios/50/nmap.png" height="40" alt="Nmap"/>
+  <img src="https://img.icons8.com/ios-filled/50/008000/network.png" height="40" alt="Networking"/>
+</p>
+
+---
+
+
+
+<a href="https://tryhackme.com/p/Suchismita04">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Suchismita04.png" alt="TryHackMe" height="100">
+</a>
 
 
 
@@ -40,7 +49,6 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Suchismita04&show_icons=true&theme=radical" width="400"/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suchismita04&layout=compact&theme=radical" width="350"/>
 </p>
 
@@ -53,8 +61,9 @@
 
 ---
 
-### ✨ Let's Connect
+### 🌐 Connect with me:
 
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:suchismitachatterjee13@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/suchismita-chatterjee-736a89280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white)](mailto:suchismitachatterjee13@gmail.com)
+[![TryHackMe](https://img.shields.io/badge/TryHackMe-Profile-red?style=fl
 
