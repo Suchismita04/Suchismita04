@@ -29,8 +29,8 @@
   <a href="mailto:suchismitachatterjee13@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="40" alt="Gmail" />
   </a>
-  <a href="https://tryhackme.com/p/Suchismita04" target="_blank">
-    <img src="https://tryhackme.com/img/logo.svg" height="40" alt="TryHackMe" />
+ <a href="https://tryhackme.com/p/Suchismita04" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tryhackme.svg" height="40" alt="TryHackMe" />
   </a>
 </p>
 
@@ -39,22 +39,34 @@
 ### 🛠️ Languages and Tools:
 
 <p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Kali Linux"/>
-  
+  <!-- Go -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go" />
 
-  <img src="https://upload.wikimedia.org/wikipedia/commons/d/d2/Wireshark_icon.svg" height="40" alt="Wireshark"/>
+  <!-- MongoDB -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
 
+  <!-- Express.js -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" />
 
-  <img src="https://nmap.org/images/nmap-logo-64.png" height="40" alt="Nmap"/>
+  <!-- React -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
 
-  
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/79/OOjs_UI_icon_network.svg/1024px-OOjs_UI_icon_network.svg.png" height="40" alt="Networking"/>
+  <!-- Node.js -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
+
+  <!-- Wireshark -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" height="40" alt="Wireshark" />
+
+  <!-- Linux (as Kali placeholder) -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Kali Linux" />
+
+  <!-- Nmap -->
+  <img src="https://raw.githubusercontent.com/k4m4/nmap-security-scanner/master/media/nmap-logo.png" height="40" alt="Nmap" />
+
+  <!-- Networking (general icon) -->
+  <img src="https://raw.githubusercontent.com/PKief/vscode-material-icon-theme/main/icons/network.svg" height="40" alt="Networking" />
 </p>
+
 
 
 
@@ -66,7 +78,7 @@
 
 <p align="center">
   <a href="https://tryhackme.com/p/Suchismita04">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Suchismita04.png" alt="TryHackMe" width="350">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Suchismita04.png" alt="TryHackMe" width="350" height="100">
 </a>
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suchismita04&layout=compact&theme=radical" width="350"/>
 </p>
