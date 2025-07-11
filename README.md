@@ -11,7 +11,6 @@
 - 👀 I’m interested in **Security Operations (SOC)**
 - 🌱 I’m currently learning **SIEM tools**
 - 💞️ I’m looking to collaborate on **cybersecurity projects, SOC simulations, or tools development**
-- 📫 Reach me at:suchismitachatterjee13@gmail.com
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: **I love CTFs and analyzing logs to uncover hidden threats**
 
@@ -38,7 +37,16 @@
 
 ### 🛠️ Languages and Tools:
 
-<p align="left" margin="2">
+<p align="left">
+  <!-- Kali Linux -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Kali Linux" />
+
+  <!-- TryHackMe -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tryhackme.svg" height="40" alt="TryHackMe" />
+
+  <!-- Burp Suite -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/portswigger.svg" height="40" alt="Burp Suite" />
+
   <!-- Go -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go" />
 
@@ -53,18 +61,16 @@
 
   <!-- Node.js -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Kali Linux" />
 
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/wireshark/wireshark-original.svg" height="40" alt="Wireshark" />
+  <!-- JavaScript -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
 
-  <!-- Nmap -->
-  <img src="https://raw.githubusercontent.com/k4m4/nmap-security-scanner/master/media/nmap-logo.png" height="40" alt="Nmap" />
-</p>
+  <!-- MySQL -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
 
+  <!-- Postman -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postman.svg" height="40" alt="Postman" />
 
-
-
----
 
 
 
