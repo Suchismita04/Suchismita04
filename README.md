@@ -14,7 +14,7 @@
 - 😄 Pronouns: **She/Her**
 - ⚡ Fun fact: **I love CTFs and analyzing logs to uncover hidden threats**
 
----
+
 
 
 
@@ -33,7 +33,7 @@
   </a>
 </p>
 
----
+
 
 ### 🛠️ Languages and Tools:
 
@@ -84,7 +84,7 @@
 </p>
 
 
----
+
 
 ### 💬 Quote I Live By
 
