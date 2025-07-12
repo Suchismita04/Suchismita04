@@ -78,7 +78,7 @@
 
 <p align="center">
  
- <img src="https://tryhackme-badges.s3.amazonaws.com/Suchismita04.png" alt="TryHackMe Badge" width="350"/>
+<img src="https://tryhackme-badges.s3.amazonaws.com/Suchismita04.png" alt="Your Image Badge"/>
 
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suchismita04&layout=compact&theme=radical" width="350"/>
 </p>
