@@ -12,8 +12,7 @@
 
 ### 👩‍💻 About Me
 
-- 🔭 I build **end-to-end web applications using the MERN stack**
-- 🌱 Currently learning **TypeScript, Docker & Scalable System Design**
+- 🔭 I build **end-to-end web applications using the MERN stack** 
 - 💡 Always open to **collaborations on MERN apps & SaaS ideas**
 - 🎯 Goal: Become a **Full-stack developer who writes scalable, secure and clean architecture**
 - 😄 Pronouns: **She/Her**
@@ -47,18 +46,6 @@
 
 </p>
 
----
-
-### 🔥 Projects
-
-| Project | Tech Stack | Live | Repo |
-|--------|-------------|------|------|
-| 🚀 **E-Commerce Web App** | React, Node.js, Express, MongoDB | 🔗 [Live](#) | 📦 [Repo](#) |
-| 📊 **Admin Dashboard** | React, Chart.js, Node.js | 🔗 [Live](#) | 📦 [Repo](#) |
-| 🔐 **Auth System (JWT + RBAC)** | Node.js, Express, MongoDB | 🔗 [Live](#) | 📦 [Repo](#) |
-| 💬 **Real-Time Chat App** | MERN + Socket.io | 🔗 [Live](#) | 📦 [Repo](#) |
-
-> Want me to add your actual project links? Just send them anytime 👍
 
 ---
 
@@ -88,15 +75,6 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suchismita04&layout=compact&theme=radical" width="350"/>
 </p>
 
----
-
-### 🏆 Developer Badges
-
-<p align="left">
-  <img src="https://img.shields.io/badge/MERN-Developer-green?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Full--Stack-Engineer-blue?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/Open--Source-Contributor-orange?style=for-the-badge" />
-</p>
 
 ---
 
