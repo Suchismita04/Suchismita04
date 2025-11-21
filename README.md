@@ -1,96 +1,106 @@
 <h1 align="center">Hi there 👋, I'm Suchismita Chatterjee</h1>
 
 <p align="center">
-  <em>Cybersecurity Enthusiast | SOC Analyst in Progress | SIEM Explorer</em>
+  <em>Full Stack Developer | MERN Stack | Passionate About Building Scalable Web Applications</em>
+</p>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Suchismita04&label=Profile%20views&color=blue&style=flat" alt="profile views"/>
 </p>
 
 ---
 
 ### 👩‍💻 About Me
 
-- 👀 I’m interested in **Security Operations (SOC)**
-- 🌱 I’m currently learning **SIEM tools**
-- 💞️ I’m looking to collaborate on **cybersecurity projects, SOC simulations, or tools development**
+- 🔭 I build **end-to-end web applications using the MERN stack**
+- 🌱 Currently learning **TypeScript, Docker & Scalable System Design**
+- 💡 Always open to **collaborations on MERN apps & SaaS ideas**
+- 🎯 Goal: Become a **Full-stack developer who writes scalable, secure and clean architecture**
 - 😄 Pronouns: **She/Her**
-- ⚡ Fun fact: **I love CTFs and analyzing logs to uncover hidden threats**
 
+---
 
-
-
-
-### 🌐 Connect with me:
-
+### 🚀 Tech Stack & Tools
 
 <p align="left">
-  <a href="https://www.linkedin.com/in/suchismita-chatterjee-736a89280?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" alt="LinkedIn" />
+
+  <!-- Programming -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" />
+
+  <!-- Frontend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" height="40" />
+
+  <!-- Backend -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" />
+
+  <!-- Database -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" />
+
+  <!-- Tools -->
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postman.svg" height="40" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="40" />
+
+</p>
+
+---
+
+### 🔥 Projects
+
+| Project | Tech Stack | Live | Repo |
+|--------|-------------|------|------|
+| 🚀 **E-Commerce Web App** | React, Node.js, Express, MongoDB | 🔗 [Live](#) | 📦 [Repo](#) |
+| 📊 **Admin Dashboard** | React, Chart.js, Node.js | 🔗 [Live](#) | 📦 [Repo](#) |
+| 🔐 **Auth System (JWT + RBAC)** | Node.js, Express, MongoDB | 🔗 [Live](#) | 📦 [Repo](#) |
+| 💬 **Real-Time Chat App** | MERN + Socket.io | 🔗 [Live](#) | 📦 [Repo](#) |
+
+> Want me to add your actual project links? Just send them anytime 👍
+
+---
+
+### 🌐 Connect with Me
+
+<p>
+  <a href="https://www.linkedin.com/in/suchismita-chatterjee-736a89280" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linkedin/linkedin-original.svg" height="40" />
   </a>
   <a href="mailto:suchismitachatterjee13@gmail.com" target="_blank">
-    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="40" alt="Gmail" />
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="40" />
   </a>
- <a href="https://tryhackme.com/p/Suchismita04" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tryhackme.svg" height="40" alt="TryHackMe" />
+  <a href="https://tryhackme.com/p/Suchismita04" target="_blank">
+    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tryhackme.svg" height="40" />
   </a>
 </p>
 
+---
 
-
-### 🛠️ Languages and Tools:
-
-<p align="left">
-  <!-- Kali Linux -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="Kali Linux" />
-
-  <!-- TryHackMe -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tryhackme.svg" height="40" alt="TryHackMe" />
-
-  <!-- Burp Suite -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/portswigger.svg" height="40" alt="Burp Suite" />
-
-  <!-- Go -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" height="40" alt="Go" />
-
-  <!-- MongoDB -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="MongoDB" />
-
-  <!-- Express.js -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" height="40" alt="Express.js" />
-
-  <!-- React -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="React" />
-
-  <!-- Node.js -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="Node.js" />
-
-  <!-- JavaScript -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="JavaScript" />
-
-  <!-- MySQL -->
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="MySQL" />
-
-  <!-- Postman -->
-  <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/postman.svg" height="40" alt="Postman" />
-
-
-
-
-
+### 📊 GitHub Stats
 
 <p align="center">
- 
-<img src="https://tryhackme-badges.s3.amazonaws.com/Suchismita04.png" alt="Your Image Badge"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=Suchismita04&theme=radical" width="450"/>
+</p>
 
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Suchismita04&layout=compact&theme=radical" width="350"/>
 </p>
 
+---
 
+### 🏆 Developer Badges
 
+<p align="left">
+  <img src="https://img.shields.io/badge/MERN-Developer-green?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Full--Stack-Engineer-blue?style=for-the-badge" />
+  <img src="https://img.shields.io/badge/Open--Source-Contributor-orange?style=for-the-badge" />
+</p>
+
+---
 
 ### 💬 Quote I Live By
 
-> "Cybersecurity is not just a job; it's a mindset." 🔐
-
-
-
-
+> "Great software is built by solving real problems for real people." 💡
 
