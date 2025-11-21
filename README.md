@@ -1,4 +1,4 @@
-<h1 align="center">Hi there 👋, I'm Suchismita Chatterjee</h1>
+hi<h1 align="center">Hi there 👋, I'm Suchismita Chatterjee</h1>
 
 <p align="center">
   <em>Full Stack Developer | MERN Stack | Passionate About Building Scalable Web Applications</em>
@@ -57,9 +57,6 @@
   </a>
   <a href="mailto:suchismitachatterjee13@gmail.com" target="_blank">
     <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Gmail_Icon.png" height="40" />
-  </a>
-  <a href="https://tryhackme.com/p/Suchismita04" target="_blank">
-    <img src="https://cdn.jsdelivr.net/npm/simple-icons@v9/icons/tryhackme.svg" height="40" />
   </a>
 </p>
 
