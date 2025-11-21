@@ -1,4 +1,4 @@
-hi<h1 align="center">Hi there 👋, I'm Suchismita Chatterjee</h1>
+<h1 align="center">Hi there 👋, I'm Suchismita Chatterjee</h1>
 
 <p align="center">
   <em>Full Stack Developer | MERN Stack | Passionate About Building Scalable Web Applications</em>
